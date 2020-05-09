@@ -24,11 +24,21 @@
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <!--  Responsive css file  -->
     <link rel="stylesheet" href="./css/responsive.css">
+    <!--  Jquery js file  -->	
+    <script src="./js/jquery.3.4.1.js"></script>
+    <script type="text/javascript">
+         $(window).on("load",function()
+         {
+            $(".preloader").addClass("complete");
+         })
+    </script>	
 
 </head>
 
 <body>
-
+<div class="preloader">
+    <div class="loader"></div>
+</div>
 
     <!--  ======================= Start Header Area ============================== -->
 
@@ -464,8 +474,7 @@
     </footer>
 
 
-    <!--  Jquery js file  -->
-    <script src="./js/jquery.3.4.1.js"></script>
+    
 
     <!--  Bootstrap js file  -->
     <script src="./js/bootstrap.min.js"></script>
