@@ -12,7 +12,14 @@
 
 ## About Me
 
-I am a current undergrad living in India doing by BTech in Computer Science. I love to learn new things and like to work in a team which is collaborative and friendly. I  believe that if I am the smartest person in the room then I am in the wrong room....SO i like to learn from others and share stuff with them as well. I like to help people and give back to the community. I am a football geek and love Arsenal FC.Hope you guys are doing well.
+Hello World, I'm Sohail.I'm currently a Software Engineer and am very passionate about sports since a young age especially analyzing and playing football.
+Apart from my sportive nature, I like to meditate which gives me calmness which allows to put things in perspective and also lets me improve as a person and be
+the best version of myself as I explore life. I want to explore different places, cultures and cuisines in the future.
+
+Professionally I would like to continually look out for something which people might feel it's good for them and save their time by creating applications which would be open source as well as easy to use which would improve me a lot technically and other aspects like problem solving, use case identification, enhancements and so on. Hopefully my curiosity to learn different things would allow me to deep dive into the trenches of technology.
+
+Lastly I surround myself with good people.Every day I like to wake up and remind myself for the grateful things bestowed upon and around me 
+and I want to set myself as a good example to the people in general.
 <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
 </div>
