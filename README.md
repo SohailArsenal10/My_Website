@@ -22,6 +22,7 @@ Professionally I would like to continually look out for something which people m
 
 Lastly I surround myself with good people.Every day I like to wake up and remind myself for the grateful things bestowed upon and around me 
 and I want to set myself as a good example to the people in general.
+
 <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
 </div>
